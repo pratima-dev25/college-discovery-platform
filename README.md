@@ -21,6 +21,10 @@ A responsive web application built using **Next.js**, **React**, **TypeScript**,
 * Tailwind CSS
 * Git & GitHub
 
+## 🚀 Live Demo
+
+[https://your-project.vercel.app](https://college-discovery-platform12.vercel.app/)
+
 ## 📸 Screenshots
 
 ### Home Page
@@ -40,7 +44,7 @@ A responsive web application built using **Next.js**, **React**, **TypeScript**,
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/college-discovery-platform.git
+git clone https://github.com/pratima-dev25/college-discovery-platform.git
 ```
 
 Go to the project folder:
